@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -26,14 +26,18 @@ Previously, I graduated with a B.S. in Electromechanical Engineering from [Unive
 
 I have interned at [Space Applications Services](https://www.spaceapplications.com/) as an Avionics and Embedded Systems Engineer Intern, primarily working on Ground Support Equipment (GSE), and at [Redwire Space](https://redwirespace.com/), as a Mechanical Engineer Intern, contributing to on-orbit space servicing systems.
 
-My research interests encompass everything that moves, trajectory optimization, real-time optimization, controls, and state estimation for **high-performance autonomous systems**, on Earth and beyond.
+My research interests encompass everything that moves, real-time trajectory optimization, motion planning, and navigation for **high-performance autonomous systems**, on Earth and beyond.
+
+<p style="text-align:center">
+  <a href="mailto:isow@andrew.cmu.ed">Email</a> &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/ibrasw/">LinkedIn</a> &nbsp;/&nbsp;
+  <a href="https://github.com/Ibrassow">GitHub</a> &nbsp;/&nbsp;
+  <a href="https://drive.google.com/file/d/1Yf8isNIlP9199rVsswqpbGNOBsGL47bq/view?usp=sharing">CV</a>
+</p>
+
 
 
 <!-- centered email, github, twitter, and cv links -->
-[email](mailto:isow@andrew.cmu.edu) / [linkedin](https://www.linkedin.com/in/ibrasw/) / [github](https://github.com/Ibrassow) 
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+<!-- [Email](mailto:isow@andrew.cmu.edu) / [Linkedin](https://www.linkedin.com/in/ibrasw/) / [Github](https://github.com/Ibrassow) / [Resume](https://drive.google.com/file/d/1Yf8isNIlP9199rVsswqpbGNOBsGL47bq/view?usp=sharing)-->
 
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
-
-<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
