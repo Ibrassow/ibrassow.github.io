@@ -32,7 +32,7 @@ My research interests encompass everything that moves, real-time trajectory opti
   <a href="mailto:isow@andrew.cmu.ed">Email</a> &nbsp;/&nbsp;
   <a href="https://www.linkedin.com/in/ibrasw/">LinkedIn</a> &nbsp;/&nbsp;
   <a href="https://github.com/Ibrassow">GitHub</a> &nbsp;/&nbsp;
-  <a href="https://drive.google.com/file/d/1Yf8isNIlP9199rVsswqpbGNOBsGL47bq/view?usp=sharing">CV</a>
+  <a href="https://drive.google.com/file/d/1Yf8isNIlP9199rVsswqpbGNOBsGL47bq/view?usp=sharing">Resume</a>
 </p>
 
 
