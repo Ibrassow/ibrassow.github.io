@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Argus-1 CubeSat
+title: CubeSat Argus-1
 description: 1U Cubesat to demonstrate Visual-Inertial A&OD
 img: assets/img/argus_pdr.gif
 importance: 1
