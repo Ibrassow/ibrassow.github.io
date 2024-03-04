@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Convex MPC for Soft Landing
-description: Optimal Control & Reinforcement Learning (Zac Manchester)
+description: Optimal Control & Reinforcement Learning
 img: assets/img/starship_mars_landing.jpg
 importance: 1
 category: work
 related_publications: 
 ---
 
-This project was accomplished as part of my [Optimal Control & Reinforcement Learning](https://github.com/Optimal-Control-16-745/) class project, taught by Zac Manchester.
+This project was accomplished as part of my [Optimal Control & Reinforcement Learning](https://github.com/Optimal-Control-16-745/) class, taught by Pr. Zac Manchester.
 
 
 This project reproduces the Powered-Descent Guidance algorithm used to solve the classical soft landing problem and embed the formulation within a Model Predictive Controller (MPC). I experimented with the controller under acceleration disturbances to reproduce real-world effects. The project repository is available here: [Github Repository](https://github.com/Ibrassow/soft_landing_mpc).

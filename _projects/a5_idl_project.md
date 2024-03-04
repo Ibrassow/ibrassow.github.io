@@ -8,7 +8,7 @@ category: work
 related_publications: 
 ---
 
-For my [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html) class project, taught by Bhiksha Raj, we tackled the improvement of a recent paper (iPlanner [paper](https://www.roboticsproceedings.org/rss19/p064.pdf)) for real-time autonomous navigation in complex environments, integrating perception and path planning into a single pipeline. In particular, I focused our efforts on a specific failure case: 
+For my [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html) class project, taught by Pr. Bhiksha Raj, we tackled the improvement of a recent paper (iPlanner [paper](https://www.roboticsproceedings.org/rss19/p064.pdf)) for real-time autonomous navigation in complex environments, integrating perception and path planning into a single pipeline. In particular, I focused our efforts on a specific failure case: 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
