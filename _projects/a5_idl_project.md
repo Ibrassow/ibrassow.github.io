@@ -15,6 +15,7 @@ For my [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index
         {% include figure.html path="assets/img/idl_proj/iplanner_dumb.gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
     Our baseline network is stuck in front of large obstacles. This is the focus of the work.
 </div>

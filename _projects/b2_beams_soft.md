@@ -8,7 +8,7 @@ category: work
 related_publications: 
 ---
 
-This is one of my project within the [BEAMS](https://beams.polytech.ulb.be/) (Bio- Electro- And Mechanical Systems) at the Université libre of Bruxelles (Undergraduate). I also received summer research scholarship (selected out of 200 students in my program) to continue my work.
+This is one of my project as an undergraduate within the [BEAMS](https://beams.polytech.ulb.be/) (Bio- Electro- And Mechanical Systems) at the Université libre of Bruxelles (Undergraduate) under [Pr. Alain Delchambre](https://www.linkedin.com/in/alain-delchambre/?originalSubdomain=be). I also received summer research scholarship (selected out of 200 students in my program) to continue my work.
 
 **Background**
 

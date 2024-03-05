@@ -8,7 +8,7 @@ category: work
 related_publications: 
 ---
 
-This is one of my project (last) within the [BEAMS](https://beams.polytech.ulb.be/) (Bio- Electro- And Mechanical Systems) at the Université libre of Bruxelles (Undergraduate).
+This is one of my project (last) as an undergraduate student within the [BEAMS](https://beams.polytech.ulb.be/) (Bio- Electro- And Mechanical Systems) at the Université libre of Bruxelles under [Pr. Alain Delchambre](https://www.linkedin.com/in/alain-delchambre/?originalSubdomain=be).
 
 
 **Background**

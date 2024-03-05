@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Two-awis gimbal IMU stabilization
+title: Bathyscaphe
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 3
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.
