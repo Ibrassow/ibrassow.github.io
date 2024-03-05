@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data-driven Soft Actuator Modelling
+title: Soft Actuator
 description: design, algorithm, analysis 
 img: assets/img/beams_soft_actuator/motion.gif
 importance: 2

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Optical force feedback 
-description: in minimally-invasive surgeries 
+description: for endoscopic dissection 
 img: assets/img/beams_autofbg/pic.png
 importance: 2
 category: work

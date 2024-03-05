@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Optimal Low-Thrust Planning for Proximity Maneuvers
+title: Planning Optimal Low-Thrust Proximity Maneuvers
 description: Planning and Decision-Making in Robotics
 img: assets/img/dream_planning.gif
 importance: 1
@@ -8,7 +8,7 @@ category: work
 related_publications: 
 ---
 
-This project was accomplished as part of my [Planning and Decision-Making in Robotics](https://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/) class, taught by Pr. Maxim Likhachev.
+This project was accomplished as part of my [Planning and Decision-Making in Robotics](https://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/) class, taught by [Pr. Maxim Likhachev](http://www.cs.cmu.edu/~maxim/).
 
 Designing low-thrust trajectories for spacecraft maneuvers involves significant challenges due to the highly nonlinear dynamics, limited control authority, and extensive duration of trajectories spanning weeks or months. To address this problem, we leverage RRT*, an optimal kinodynamic sampling-based planner, and incorporate a heuristic based on the Linear Quadratic Regulator (LQR) for node extension and distance computations. This heuristic employs the LQR cost-to-go metric to produce paths that are locally optimal and dynamically feasible according to the LQR's quadratic cost, leading to a more effective search within the state space. We demonstrate our algorithm in the case of spacecraft proximity operations with obstacles for varying values of penalty on the control action. Additionally, we assess the actual thrust usage through a custom Time-Varying LQR (TVLQR) to track the generated trajectory, demonstrating the effectiveness of our approach. 
 

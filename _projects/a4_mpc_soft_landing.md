@@ -8,13 +8,13 @@ category: work
 related_publications: 
 ---
 
-This project was accomplished as part of my [Optimal Control & Reinforcement Learning](https://github.com/Optimal-Control-16-745/) class, taught by Pr. Zac Manchester.
+This project was accomplished as part of my [Optimal Control & Reinforcement Learning](https://github.com/Optimal-Control-16-745/) class, taught by [Pr. Zac Manchester](http://rexlab.ri.cmu.edu/).
 
 
 This project reproduces the Powered-Descent Guidance algorithm used to solve the classical soft landing problem and embed the formulation within a Model Predictive Controller (MPC). I experimented with the controller under acceleration disturbances to reproduce real-world effects. The project repository is available here: [Github Repository](https://github.com/Ibrassow/soft_landing_mpc).
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center align-items-center">
+    <div class="col-sm-9 mt-3 mt-md-0">
         {% include figure.html path="assets/img/soft_landing/plot_trajectory.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -29,7 +29,7 @@ This project reproduces the Powered-Descent Guidance algorithm used to solve the
     </div>
 </div>
 <div class="caption">
-    Pipeline
+    The MPC solves at each time step 2 subproblems: 1. a minimum landing error problem to get the maximum achievable landing position 2. a minimum-thrust problem to reach the found target position efficiently.
 </div>
 
 
