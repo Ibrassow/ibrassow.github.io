@@ -18,7 +18,7 @@ In the second-year of my undergaduate studies, I led a small team to design to b
 - Medical compliance
 - Detailed user manual with usage, configuration, charging, and cleaning instructions
 - RGPD compliance and data encryption
-- Even a long commercial :sleeping: (French): [video](https://www.youtube.com/watch?v=S2HPidFGN5k)
+<!--- - Even a long commercial (French): [video](https://www.youtube.com/watch?v=S2HPidFGN5k) -->
 
  
 <div class="row justify-content-sm-center align-items-center">

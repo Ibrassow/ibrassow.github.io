@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a second-year graduate student in the Mechanical Engineering - Research program at Carnegie Mellon University (CMU), and a Belgian American Educational Foundation ([BAEF](https://baef.be/)) scholar.
+Hi! I'm a second-year graduate student in the Mechanical Engineering - Research program at Carnegie Mellon University (CMU), and a Belgian American Educational Foundation ([BAEF](https://baef.be/)) scholar. I am actively looking for <span style="color: red;">full-time roles in Aerospace/Robotics/AI or any other interesting opportunities (bonus point for startups), so definitely reach out!</span>
 
 Advised by Pr. [Zac Manchester](https://rexlab.ri.cmu.edu/) and Pr. [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/), my current research focuses on real-time optimization-based planning, control, and navigation for agile robots and autonomous spacecraft. Additionally, I work on guidance, navigation, and control (GNC), simulations, and flight software systems for CubeSats.
 
