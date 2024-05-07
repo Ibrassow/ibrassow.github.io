@@ -2,7 +2,7 @@
 layout: page
 title: Argus-1
 description: 1U Cubesat Development for Visual-Inertial Navigation demonstration
-img: assets/img/cubesat/argus_no_depl.jpg
+img: assets/img/cubesat/argus_flatsat3.jpg
 importance: 1
 category: work
 related_publications: 
