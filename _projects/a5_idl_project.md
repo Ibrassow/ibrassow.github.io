@@ -8,6 +8,14 @@ category: work
 related_publications: 
 ---
 
+
+**Abstract**: We introduce a unified learning-based framework for real-time autonomous navigation in complex environments, integrating perception and path planning into a single pipeline. Building upon the iPlanner, an end-to-end policy planning model originally developed for ground robots, we adapt its Bi-Level Optimization (BLO) process for efficient navigation, creating safe and dynamically feasible trajectories through an improved state representation and incorporating spatiotemporal dependencies within the network. Central to our approach is the application of a pre-trained Convolutional Variational Autoencoder (CVAE) which efficiently extracts crucial features from depth images and simultaneously mitigates high-frequency noise. The low-dimensional rich information is fused with an expanded goal representation to feed downstream planning tasks. We exploit the spatio-temporal sequential nature of the planning task with Long short-term memory (LSTM) networks to generate an extended sequence of keypoint paths. Our loss function uses the optimization process to prioritize the safety and dynamic feasibility of the paths generated. We train our model entirely in simulated environments, employing various data augmentation techniques to reduce the sim2real gap. We present the results of our ablation study for our pre-trained CVAE, trained our end-to-end pipeline, and show comparable results to iPlanner while succeeding in cases where large obstacles are present. Finally, we set the stage for future hardware implementation.
+
+Our sumitted report is available here: [Submitted Report](https://drive.google.com/file/d/1GPz8BDxt3FrRSgodKm9alad00Uupmgmz/view?usp=sharing)
+
+The code repository is available here (fork of baseline): [Github Repository - BabyNet](https://github.com/Ibrassow/BabyNet)
+
+
 For my [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html) class project, taught by Pr. Bhiksha Raj, we tackled the improvement of a recent paper (iPlanner [paper](https://www.roboticsproceedings.org/rss19/p064.pdf)) for real-time autonomous navigation in complex environments, integrating perception and path planning into a single pipeline. In particular, I focused our efforts on a specific failure case: 
 
 <div class="row justify-content-sm-center">
@@ -20,7 +28,7 @@ For my [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F23/index
     Our baseline network is stuck in front of large obstacles. This is the focus of the work.
 </div>
 
-To do so, we tried to improve the state reprensation within the network as well as incorporating the planning task logic ithin the network. We replaced the decoding block with a pre-trained Convolutional Variational Auto Encoder, providing an effective low-dimensional latent space for feature extraction used by all downstream planning tasks. We representent spatiotemporal dependencies of the planning task through an Long Short-Term Memory-based (LSTM) sequence generator that are then projected to coordinates space.
+To do so, we tried to improve the state representation within the network as well as incorporating the planning task logic ithin the network. We replaced the decoding block with a pre-trained Convolutional Variational Auto Encoder, providing an effective low-dimensional latent space for feature extraction used by all downstream planning tasks. We representent spatiotemporal dependencies of the planning task through an Long Short-Term Memory-based (LSTM) sequence generator that are then projected to coordinates space.
 
 
 <div class="row justify-content-sm-center">
@@ -57,11 +65,5 @@ To do so, we tried to improve the state reprensation within the network as well 
 </div>
 
 
-Our sumitted report is available here: [Submitted Report](https://drive.google.com/file/d/1GPz8BDxt3FrRSgodKm9alad00Uupmgmz/view?usp=sharing)
 
-The code repository is available here (fork of baseline): [Github Repository - BabyNet](https://github.com/Ibrassow/BabyNet)
-
-
-
-**Abstract**: We introduce a unified learning-based framework for real-time autonomous navigation in complex environments, integrating perception and path planning into a single pipeline. Building upon the iPlanner, an end-to-end policy planning model originally developed for ground robots, we adapt its Bi-Level Optimization (BLO) process for efficient navigation, creating safe and dynamically feasible trajectories through an improved state representation and incorporating spatiotemporal dependencies within the network. Central to our approach is the application of a pre-trained Convolutional Variational Autoencoder (CVAE) which efficiently extracts crucial features from depth images and simultaneously mitigates high-frequency noise. The low-dimensional rich information is fused with an expanded goal representation to feed downstream planning tasks. We exploit the spatio-temporal sequential nature of the planning task with Long short-term memory (LSTM) networks to generate an extended sequence of keypoint paths. Our loss function uses the optimization process to prioritize the safety and dynamic feasibility of the paths generated. We train our model entirely in simulated environments, employing various data augmentation techniques to reduce the sim2real gap. We present the results of our ablation study for our pre-trained CVAE, trained our end-to-end pipeline, and show comparable results to iPlanner while succeeding in cases where large obstacles are present. Finally, we set the stage for future hardware implementation.
 
