@@ -17,7 +17,7 @@ bundle install
 
 
 sudo gem install bundle
-sudo gem update --system
- gem update --system
+sudo gem update --system 3.1.2
+gem update --system 3.3.3
 
 bundle exec jekyll serve    
