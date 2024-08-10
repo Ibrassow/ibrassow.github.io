@@ -1,20 +1,20 @@
 ---
 layout: page
 title: Argus-1
-description: 1U Cubesat Development for Visual-Inertial Navigation demonstration
+description: 1U Cubesat Development for On-Orbit Visual Navigation 
 img: assets/img/cubesat/argus_flatsat3.jpg
 importance: 1
 category: work
 related_publications: 
 ---
 
-Argus-1 is a technology demonstration mission primarily for Visual-Inertial Attitude and Orbit Determination (A&OD) as a low-cost and efficient alternative to traditional methods (e.g. GPS, radio ranging, star trackers, ...) for small satellites. Its payload consists of cameras placed on faces of the CubSat and a NVIDIA Jetson. A series of Neural Network-based region classifier and landmark detectors retrieves salient locations from Earth images (as directional vectors) and are passed down to optimization-based algorithms to perform the determination. I lead the team primarily with system design, flight software, GNC, communications, and payload development. I was also a TA for a related class [Spacecraft Design-Build-Fly](https://github.com/cmu-spacecraft-design-build-fly-2023), taught by Pr. Zachary Machester and Pr. Brandon Lucia at CMU.
+Argus-1 is a technology demonstration mission for a low-cost and efficient Visual Orbit Determination (OD) system, aimed at solving the lost-in-space problem for small satellites, with an anticipated launch in Fall 2025. The project is led by PI Prof. Zachary Manchester and Prof. Brandon Lucia at Carnegie Mellon University (CMU).
 
+The payload includes four cameras and an NVIDIA Jetson, where neural network-based region classifiers and landmark detectors identify salient locations from Earth images (as directional vectors). These are then processed by optimization-based algorithms to determine the satellite’s orbit.
+
+As project manager and systems lead, I oversee team development across hardware and flight software, driving both requirements and schedule. I am a key contributor, effectively owning the ADCS, C&DH, Communications (software), and Payload subsystems.
 
 <div class="row justify-content-sm-center align-items-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cubesat/argus_flatsat1.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
     <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/cubesat/argus_flatsat2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -23,25 +23,5 @@ Argus-1 is a technology demonstration mission primarily for Visual-Inertial Atti
     V1 Flatsat
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cubesat/ld_detection.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption"> Landmark Detection </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-9 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cubesat/simplified_pipeline.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption"> Simplified Payload Pipeline  </div>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0"></div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cubesat/argus_deploy.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0"></div>
-</div>
-<div class="caption"> Argus-1 in stowed (left) and deployed (right) configuration. </div>
+I also served as a TA for the related course Spacecraft Design-Build-Fly that drove the project to its initial Preliminary Design Review.
