@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Argus-1
-description: 1U Cubesat Development for On-Orbit Visual Navigation 
+title: Argus-1 & Argus-2
+description: Satellite Development for On-Orbit Visual Navigation 
 img: assets/img/cubesat/argus_flatsat3.jpg
 importance: 1
 category: work
@@ -24,4 +24,4 @@ As project manager and systems lead, I oversee team development across hardware 
 </div>
 
 
-I also served as a TA for the related course Spacecraft Design-Build-Fly that drove the project to its initial Preliminary Design Review.
+I also serves as a TA for a related course Spacecraft Design-Build-Fly (both missions).
