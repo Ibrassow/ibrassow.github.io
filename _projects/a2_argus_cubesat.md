@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Argus-1 & Argus-2
+title: Argus CubeSat
 description: Satellite Development for On-Orbit Visual Navigation 
 img: assets/img/cubesat/argus_flatsat3.jpg
 importance: 1
@@ -12,7 +12,7 @@ Argus-1 is a technology demonstration mission for a low-cost and efficient Visua
 
 The payload includes four cameras and an NVIDIA Jetson, where neural network-based region classifiers and landmark detectors identify salient locations from Earth images (as directional vectors). These are then processed by optimization-based algorithms to determine the satellite’s orbit.
 
-As project manager and systems lead, I oversee team development across hardware and flight software, driving both requirements and schedule. I am a key contributor, effectively owning the ADCS, C&DH, Communications (software), and Payload subsystems.
+As project manager and engineering lead, I oversee team development across hardware and flight software, driving both requirements and schedule. I am also a key contributor, effectively owning the ADCS, C&DH, Communications (software), and Payload subsystems.
 
 <div class="row justify-content-sm-center align-items-center">
     <div class="col-sm-7 mt-3 mt-md-0">
