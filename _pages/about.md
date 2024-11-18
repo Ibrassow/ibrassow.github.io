@@ -15,10 +15,10 @@ profile:
 news: true  # includes a list of news items
 # latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page # <span style="color: red;"> </span>
 ---
 
-Hi! I'm a second-year graduate student in the Mechanical Engineering - Research program at Carnegie Mellon University (CMU), a [Belgian American Educational Foundation](https://baef.be/) Scholar, and a member of the [Robotic Exploration Lab](http://rexlab.ri.cmu.edu/). <span style="color: red;">I am actively looking for full-time roles in Aerospace (GNC), Robotics or any other interesting opportunities, so definitely reach out!</span>
+Hi! I'm a second-year graduate student in the Mechanical Engineering - Research program at Carnegie Mellon University (CMU), a [Belgian American Educational Foundation](https://baef.be/) Scholar, and a member of the [Robotic Exploration Lab](http://rexlab.ri.cmu.edu/). I am actively looking for full-time roles in Aerospace (GNC), Robotics or any other interesting opportunities, so definitely reach out!
 
 Advised by Pr. [Zac Manchester](https://rexlab.ri.cmu.edu/) and Pr. [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/), my current research focuses on real-time optimization-based planning, control, and navigation for agile robots and autonomous spacecraft. I also actively work on the system design, guidance, navigation, and control (GNC), flight software, and communication subsystems for our CubeSat missions (Py4, Argus-1, Argus-2).
 
