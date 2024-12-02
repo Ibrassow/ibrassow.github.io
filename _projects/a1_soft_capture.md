@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soft Capture of Tumbling Spacecraft
+title: Docking with Tumbling Spacecraft
 description: A convex formulation for trajectory optimization
 img: assets/img/soft_capture/approach_wide.gif
 importance: 1

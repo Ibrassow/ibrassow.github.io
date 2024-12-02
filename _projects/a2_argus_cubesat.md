@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Argus Satellite
-description: Spacecraft demonstrating for On-Orbit Visual Navigation 
+title: Engineering a satellite
+description: End-to-End Development of a Satellite to Demonstrate On-Orbit Visual Navigation 
 img: assets/img/cubesat/argus_preas2.jpg
 importance: 1
 category: work

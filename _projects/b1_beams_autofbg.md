@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Optical force feedback 
-description: for endoscopic dissection 
+description: for endoscopic surgery
 img: assets/img/beams_autofbg/pic.png
 importance: 2
 category: work
