@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page # <span style="color: red;"> </span>
 ---
 
-Hi! I'm a second-year graduate student in the Mechanical Engineering (Robotics & Controls) at Carnegie Mellon University (CMU), a [Belgian American Educational Foundation](https://baef.be/) Scholar, and a member of the [Robotic Exploration Lab](http://rexlab.ri.cmu.edu/). I am actively looking for full-time roles in Robotics, Aerospace, or any other interesting opportunities, so definitely reach out!
+Hi! I'm currently an Autopilot Software Engineer at [Tesla](https://www.tesla.com/) putting :brain: in :car:. Previously, I was a graduate student in Mechanical Engineering (Robotics & Controls) at Carnegie Mellon University (CMU), a [Belgian American Educational Foundation](https://baef.be/) Scholar, and a member of the [Robotic Exploration Lab](http://rexlab.ri.cmu.edu/). 
 
-Advised by Pr. [Zac Manchester](https://rexlab.ri.cmu.edu/) and Pr. [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/), my current research focuses on real-time optimization-based planning, control, and navigation for agile robots and autonomous spacecraft. I also actively work on the system design, guidance, navigation, and control (GNC), flight software, and communication subsystems for our satellite missions (Py4, Argus).
+Advised by Pr. [Zac Manchester](https://rexlab.ri.cmu.edu/) and Pr. [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/), my current research focuses on real-time optimization-based planning, control, and navigation for agile robots and autonomous spacecraft. I also actively work on the system design, guidance, navigation, and control (GNC), flight software, and communication subsystems for our satellite missions (Argus, PY4).
 
 Previously, I graduated with a B.S. in Electromechanical Engineering from [Université libre de Bruxelles](https://www.ulb.be/en) (Belgium) in 2022. My undergraduate research was centered on the development, experimental testing, and control of new sensors and actuators for minimally invasive endoscopic and surgical tools, and on local model-order reduction optimization for spacecraft reentry simulation.
 
