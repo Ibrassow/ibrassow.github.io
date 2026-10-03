@@ -17,9 +17,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page # <span style="color: red;"> </span>
 ---
-Hi! I'm currently a Senior Autopilot Engineer at [Tesla AI](https://www.tesla.com/AI), where I develop new machine learning models for Full Self-Driving (FSD) and Robotaxi, spanning neural network development and training, model optimization, deployment, and AI systems integration to bring large-scale autonomy to production vehicles.
+Hi! I'm currently a Senior Autopilot Engineer at [Tesla AI](https://www.tesla.com/AI), where I develop machine learning models for Full Self-Driving (FSD) and Robotaxi, from on-vehicle vision networks to large vision-language foundation models. My work spans data pipelines, pre-training and post-training, model optimization, deployment, and systems integration to bring autonomy to millions of production vehicles.
 
-I love building systems that move fast, burn hard, and think smart. My interests lie at the intersection of aerospace, robotics, and autonomy. I'm particularly excited by autonomous systems, embodied intelligence, high-performance inference and compute, and spacecraft autonomy. My long-term ambition is to build technologies that push autonomy beyond Earth.
+I love building systems that move fast, burn hard, and think smart. My interests lie at the intersection of aerospace, robotics, and autonomy. I'm particularly excited by embodied intelligence, multimodal reasoning, high-performance inference and compute, and spacecraft autonomy. My long-term ambition is to build technologies that push autonomy beyond Earth.
 
 Previously, I completed my M.S. in Mechanical Engineering (Robotics & Controls) at Carnegie Mellon University, where I was a [Belgian American Educational Foundation (BAEF)](https://baef.be/) Fellow and a member of the Robotic Exploration Lab. Advised by Prof. [Zac Manchester](https://roboticexplorationlab.org/) and Prof. [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/), my [research]({{ '/Publications/' | relative_url }}) focused on real-time optimization for planning, guidance, navigation, and control of agile robotic systems and autonomous spacecraft.
 
@@ -28,7 +28,7 @@ Beyond research, I led [**Argus**]({{ '/projects/a2_argus_cubesat/' | relative_u
 Before CMU, I received a B.S. in Electromechanical Engineering from [Université libre de Bruxelles](https://www.ulb.be/en) (Belgium). My undergraduate research explored novel sensors and actuators for minimally invasive surgical robotics, as well as reduced-order modeling techniques for spacecraft re-entry simulation.
 
 I previously interned at [Space Applications Services](https://www.spaceapplications.com/) as an Avionics and Embedded Systems Engineer, developing ground support equipment for space payload testing, and at [Redwire Space](https://redwirespace.com/), where I contributed to technologies for on-orbit servicing and space infrastructure as a Mechanical Engineer.
-sele
+
 Feel free to reach out!
 
 
@@ -36,13 +36,12 @@ Feel free to reach out!
 <p style="text-align:center">
   <a href="mailto:isow@alumni.cmu.edu">Email</a> &nbsp;/&nbsp;
   <a href="https://www.linkedin.com/in/ibrasw/">LinkedIn</a> &nbsp;/&nbsp;
-  <a href="https://github.com/Ibrassow">GitHub</a> &nbsp;/&nbsp;
-  <a href="https://drive.google.com/file/d/1Yf8isNIlP9199rVsswqpbGNOBsGL47bq/view?usp=sharing">Resume (for sure outdated)</a>
+  <a href="https://github.com/Ibrassow">GitHub</a>
 </p>
 
 
 
 <!-- centered email, github, twitter, and cv links -->
 
-<!-- [Email](mailto:isow@andrew.cmu.edu) / [Linkedin](https://www.linkedin.com/in/ibrasw/) / [Github](https://github.com/Ibrassow) / [Resume](https://drive.google.com/file/d/1Yf8isNIlP9199rVsswqpbGNOBsGL47bq/view?usp=sharing)-->
+<!-- [Email](mailto:isow@andrew.cmu.edu) / [Linkedin](https://www.linkedin.com/in/ibrasw/) / [Github](https://github.com/Ibrassow)-->
 
